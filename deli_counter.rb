@@ -10,4 +10,5 @@ def line(katz_deli)
   
   def take_a_number(katz_deli)
     take_a_number.each_with_index do 
-      |name, i| 
+      |name, i| puts "#{name} #{index}"
+    end

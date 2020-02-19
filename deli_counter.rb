@@ -1,4 +1,4 @@
-def line(katz_deli = "The line is curently empty.")
+def line(katz_deli)
   katz_deli= []
   if katz_deli < 1
     puts "This line is currently empty. "
